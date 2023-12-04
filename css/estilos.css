@@ -1,11 +1,7 @@
 body {
-    background-color: #000000;
-    color: rgb(255, 255, 255);
+    background-color: black;
+    color: white;
   }
-
-a {
-  color: rgb(251, 255, 215);
-}
 
 ul {
     list-style: none;
