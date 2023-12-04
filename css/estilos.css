@@ -20,6 +20,7 @@ audio {
 pre {
     border: 1px solid   #cccccc;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
     font-size: 17px;
     line-height: 1,5;
     padding: 3px;
@@ -27,6 +28,11 @@ pre {
     margin-right: 10px;
     white-space: pre-wrap;
   }
+
+i {
+  font-size: 15px;
+  font-weight: normal;
+}
 
 .coluna1 {
     width: 76%;
